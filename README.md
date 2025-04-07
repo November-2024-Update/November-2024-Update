@@ -1,9 +1,9 @@
 <!-- Profile View Badge -->
+
 <p align="center">
-  <a href="https://github.com/November-2024-Update">
-    <img src="https://komarev.com/ghpvc/?username=November-2024-Update&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
-  </a>
+  <img src="https://img.shields.io/badge/Profile%20Views-4,541-blue" alt="Profile Views">
 </p>
+
 
 <!-- Header -->
 <p align="center">
