@@ -1,7 +1,7 @@
 <!-- Profile View Badge -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-7,140-blue" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Profile%20Views-17,641-blue" alt="Profile Views">
 </p>
 
 
